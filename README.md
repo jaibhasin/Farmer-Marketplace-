@@ -2,9 +2,7 @@
 
 ## Overview
 
-The Farmers App is a comprehensive platform designed to assist farmers and users in managing agricultural activities and sell their produce online.
-The app provides features such as crop prediction, fertilizer recommendation, and access to market prices.
-It also supports multiple languages to cater to a diverse user base.
+The Farmers App is a comprehensive platform designed to assist farmers and users in managing agricultural activities and sell their produce online. The app provides features such as crop prediction, fertilizer recommendation, and access to market prices. It also supports multiple languages to cater to a diverse user base.
 
 ## Project Structure
 
