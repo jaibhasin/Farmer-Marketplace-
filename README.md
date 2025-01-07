@@ -21,11 +21,10 @@ Marketplace for Farmers is a bilingual (English/Hindi) platform connecting farme
 - **Transportation Assistance:** Includes a curated list of transportation companies to ease logistics.
 
 ## 📸 Screenshots
-
-![Screenshot (149)](https://github.com/user-attachments/assets/e8be7b07-49ce-4b94-a530-1d7a01b8fa1a)
-![Screenshot (150)](https://github.com/user-attachments/assets/5e877077-1566-4d98-baee-3ae637731ac4)
-![Screenshot (154)](https://github.com/user-attachments/assets/dea22695-b128-4264-b273-ef1ac298ec56)
-![Screenshot (151)](https://github.com/user-attachments/assets/9cf53036-6423-42a6-98f7-b5f06aeb0e1a)
+<img src="https://github.com/user-attachments/assets/e8be7b07-49ce-4b94-a530-1d7a01b8fa1a" width="700"/>
+<img src="https://github.com/user-attachments/assets/5e877077-1566-4d98-baee-3ae637731ac4" width="700"/>
+<img src="https://github.com/user-attachments/assets/dea22695-b128-4264-b273-ef1ac298ec56" width="700"/>
+<img src="https://github.com/user-attachments/assets/9cf53036-6423-42a6-98f7-b5f06aeb0e1a" width="700"/>
 
 ## 💻 Tech Stack
 
